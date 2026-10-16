@@ -1,0 +1,14 @@
+*.yml linguist-detectable=false
+
+*.woff2 binary
+
+*.min.js linguist-generated
+*.svg text
+yarn.lock linguist-generated
+
+src/**/*.ts linguist-detectable
+*.html linguist-vendored
+
+src/**/*.tsx linguist-detectable
+*.sh text eol=lf
+*.htm linguist-vendored
